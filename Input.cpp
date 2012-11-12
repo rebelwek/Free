@@ -1,4 +1,4 @@
-Hello world
+Hello world people
 // Реализация корректного потокового ввода любых вещественных базовых данных
 #include "Input.h"
 
