@@ -1,5 +1,4 @@
-<<<<<<< HEADí7ïíãøìíðãïãíïãíïí
-Hello CR7 )))))))))))
+Hello MY WORLD
 =======
 Hello CR7
 olololololol
